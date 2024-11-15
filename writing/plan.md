@@ -2,17 +2,22 @@
 
 ## Summary
 
-TODO: Write a 3-5 sentence summary of the project you plan to undertake, including core concepts,
-technologies, and forms you plan to engage with.
+This project transforms a Dungeons & Dragons (D&D) campaign transcript into a cohesive linear narrative using an AI-powered multi-model approach. A language model (LLM) will process the transcript to create a structured story, while an image generator will produce illustrations for key scenes and characters. The final product will be a visually immersive storybook, combining narrative and imagery to capture the essence of the campaign. This project explores the creative potential and limitations of AI in storytelling and visual art.
 
 ## Peer works
 
-TODO: Identify up to 3 works that you see as similar to what you're planning to do. If possible,
-highlight particular pages, passages, or sections of those works with brief notes summarizing how
-they motivate this project.
+1. Building a Narrative in D&D
+
+    This article highlights how D&D campaigns reflect high fantasy storytelling, blending player choices with collaborative narratives. It shows how campaigns naturally align with linear storytelling, motivating the adaptation of a transcript into a structured narrative.
+
+2. Vox Machina (Critical Role)
+
+    Vox Machina is a D&D campaign successfully adapted into a cohesive, linear narrative as an animated series. This inspires the project’s goal of transforming a campaign transcript into an engaging story while preserving its essence.
+
+3. Children’s Book Generation Project (GitHub)
+
+    This project demonstrates combining AI-generated text and visuals into a cohesive product. Its modular approach to text, images, and formatting informs this project's workflow for creating a narrative with illustrations.
 
 ## Challenges
 
-TODO: Highlight any challenges that you see as prohibitive to your starting on this project. These
-might range from technical to abstract issues, but should suggest areas that you might look to solve
-them.
+One major challenge is ensuring the output is formatted cohesively, with the AI-generated text and images seamlessly integrated into a professional, polished document. Managing consistent styles between text and illustrations, especially given the variability of AI outputs, could be complex. Another potential issue is maintaining narrative coherence when transforming non-linear, player-driven events from the D&D transcript into a linear story. Finally, balancing manual intervention and automation for both text and visuals will require careful planning to ensure the final product meets creative and technical expectations.
