@@ -1,0 +1,56 @@
+{
+    "Story": {
+        "Title": "The Adventures of Vox Machina",
+        "Setting": "The Tal'Dorei Continent, including cities like Emon and Whitestone",
+        "Plot": "The party faces challenges ranging from political intrigue and deadly beasts to uncovering ancient secrets and saving the world from destruction."
+    },
+    "Characters": [
+        {
+            "Name": "Laura Bailey",
+            "Character": "Vex'ahlia",
+            "Appearance": "A half-elf with dark hair and a confident smirk, always accompanied by her faithful bear companion, Trinket.",
+            "Role": "Ranger who excels in archery and survival skills, with a sharp wit and a knack for negotiation."
+        },
+        {
+            "Name": "Liam O'Brien",
+            "Character": "Vax'ildan",
+            "Appearance": "A brooding half-elf with a black cloak and piercing eyes, moving with the grace of a shadow.",
+            "Role": "Rogue who is adept at stealth and assassination, with a deep loyalty to his friends."
+        },
+        {
+            "Name": "Marisha Ray",
+            "Character": "Keyleth",
+            "Appearance": "A young half-elf with fiery red hair and a crown of antlers, exuding an air of natural power.",
+            "Role": "Druid who harnesses the forces of nature to heal and protect her allies."
+        },
+        {
+            "Name": "Travis Willingham",
+            "Character": "Grog Strongjaw",
+            "Appearance": "A towering goliath with a bald head, tattoos, and a perpetual grin, wielding a massive greatsword.",
+            "Role": "Barbarian with immense strength and a simple, good-natured outlook."
+        },
+        {
+            "Name": "Sam Riegel",
+            "Character": "Scanlan Shorthalt",
+            "Appearance": "A gnome with flamboyant clothing, a lute in hand, and a mischievous twinkle in his eye.",
+            "Role": "Bard who uses his charm and musical magic to inspire and manipulate."
+        },
+        {
+            "Name": "Taliesin Jaffe",
+            "Character": "Percival de Rolo",
+            "Appearance": "A human with pale skin, white hair, and a solemn demeanor, often seen with his custom-built firearms.",
+            "Role": "Gunslinger who combines intellect and precision to devastating effect."
+        },
+        {
+            "Name": "Ashley Johnson",
+            "Character": "Pike Trickfoot",
+            "Appearance": "A small but fierce gnome with white hair and a glowing symbol of Sarenrae on her armor.",
+            "Role": "Cleric who channels divine energy to heal and protect her companions."
+        }
+    ],
+    "DungeonMasterNotes": {
+        "DungeonMasterName": "Matthew Mercer",
+        "Theme": "Epic high fantasy with moments of humor, camaraderie, and emotional depth.",
+        "PreferredTone": "Balanced between dramatic storytelling and lighthearted banter."
+    }
+}

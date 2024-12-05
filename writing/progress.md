@@ -2,22 +2,32 @@
 
 ## Provide a tentative title for the work.
 
-TODO: Titles are the most fun
+D&D Story Generator
 
 ## Description
 
-TODO: Provide a 3-5 sentence description of your progress to this point. What has been
-difficult? What has been enjoyable? Has your concept changed or shifted in any meaningful way?
+This project converts D&D session transcripts into a cohesive storybook with GPT-4-generated text and DALL-E 3 illustrations. Key features include tab-indented paragraphs, periodic images every five paragraphs, and a linear narrative.
+
+Challenges: Managing long inputs, ensuring paragraph coherence, and achieving consistent image quality have been demanding.
+
+Enjoyable: Watching fragmented notes transform into rich chapters with visuals has been rewarding.
+
+Shifts: Initially text-only, the project now includes inter-paragraph imagery and enhanced formatting for readability.
 
 ## Peer Feedback
 
-TODO: Identify at least 3 questions to pose to an in-class peer. 
+How long does your system take to run?
+
+What inspired you to make this projcet?
+
+What project we have already done is this similar to?
 
 ### Unstructured peer feedback
 
-TODO: Dedicate this space to a summative comment from a peer. This may require you to share
-this repository (briefly) with this person for them to replace this paragraph with the comment.
+N/A
 
 ## Persisting challenges
 
-TODO: Highlight challenges which continue to hamper progress.
+Input Length: Maintaining flow across split sections.
+Image Cohesion: Ensuring visual consistency.
+User Interaction: Adding real-time input options for customization.

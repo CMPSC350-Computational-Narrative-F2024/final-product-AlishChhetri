@@ -2,36 +2,38 @@
 
 ## Final title
 
-TODO: Provide the final title
+Adventures Encoded: D&D Story Generator
 
 ## Summary
 
-TODO: In no more than two (2) sentences, write a summary of what your work is "about."
+This project transforms D&D campaign transcripts into a cohesive and visually immersive storybook. By leveraging AI tools for narrative and illustrations, it reimagines fragmented roleplay sessions as polished, engaging stories.
 
 ## Reference works
 
-TODO: Incorporate the three (3) reference works which can include the body of work we've read this 
-semester with a meaningful discussion of how they relate to your final work. Here, use
-passages from both _your_ work _and_ the selected work to make this comparison (or 
-contrast!) clear.
+Do LLMs Understand Us?
+This work examines LLMs' ability to simulate understanding, directly reflecting challenges in maintaining character authenticity and narrative flow in the project. Refining prompts and character details helped address GPT-4's limitations.
+
+Writing with Machines
+Highlighting human-machine collaboration, this work aligns with the project's iterative blending of AI-generated content and human-designed configurations to create cohesive narratives and illustrations.
+
+AI Story Generation
+This work explores AI's capacity to create structured, emotionally resonant stories, informing the project's transformation of chaotic D&D transcripts into clear, engaging chapters while preserving the campaign's essence.
 
 ## Describe your single largest success.
 
-TODO: Describe
+The largest success was developing a flexible pipeline that adapts to any D&D transcript, generating coherent narratives and contextually relevant illustrations. This adaptability showcases the project’s potential for personalization across varied campaigns.
 
 ## Describe your single largest challenge or failure.
 
-TODO: Describe
+Managing the limitations of AI tools, particularly GPT-4’s token limit, was a significant challenge. It required splitting transcripts into smaller chunks while preserving narrative flow. Early outputs struggled with consistency, but refining this process enabled smoother transitions and a cohesive final product.
 
 ## The role of feedback
 
-TODO: Describe how the feedback from peers shaped your work. This can incorporate feedback
-from earlier assignments or solely from this one. Cite at least two (2) examples, though
-more are always more helpful.
+Visual elements: Feedback from peers suggested integrating images every five paragraphs. This addition enriched the storytelling, with visuals breaking up the text and anchoring key moments like battle scenes or emotional climaxes.
+Narrative readability: Suggestions to use tab-indented paragraphs improved readability, making the output more polished and professional.
 
 ## Contextualizing
 
-TODO: This course asked you to understand language as technology and information for carrying,
-permuting, combining, destroying, and altering ideas. How does your work fit into your understanding
-of the course? If there's one final take-away from participating in creative diversion/adventure into
-technology, narrative, and meaning, what is it and how did it factor into this longform work?
+This project reflects the course’s exploration of language as a tool for transformation and meaning-making. By treating D&D transcripts as raw data, it showcases how technology can permute and reimagine narratives into new forms. The integration of AI not only amplifies storytelling but also bridges the gap between raw creativity and polished presentation, exemplifying the intersection of technology, narrative, and innovation.
+
+Example campign source: https://criticalrole.fandom.com/wiki/Transcripts#Campaign_1:_Vox_Machina
