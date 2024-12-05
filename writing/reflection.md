@@ -37,3 +37,5 @@ Narrative readability: Suggestions to use tab-indented paragraphs improved reada
 This project reflects the course’s exploration of language as a tool for transformation and meaning-making. By treating D&D transcripts as raw data, it showcases how technology can permute and reimagine narratives into new forms. The integration of AI not only amplifies storytelling but also bridges the gap between raw creativity and polished presentation, exemplifying the intersection of technology, narrative, and innovation.
 
 Example campign source: https://criticalrole.fandom.com/wiki/Transcripts#Campaign_1:_Vox_Machina
+
+Link to generated PDF: https://drive.google.com/drive/u/0/folders/11X4P67TU89l5gFJ4MR9ytMDX3NPs5hmm
